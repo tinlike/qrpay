@@ -1,0 +1,42 @@
+/*! Hammer.JS - v2.0.8 - 2016-04-22
+ * http://hammerjs.github.io/
+ *
+ * Copyright (c) 2016 Jorik Tangelder;
+ * Licensed under the MIT license */
+
+/*! iScroll v5.2.0
+ * (c) 2008-2016 Matteo Spinelli
+ * http://cubiq.org/license
+ */
+
+/**
+ * @see https://github.com/sindresorhus/screenfull.js
+ * @license MIT © Sindre Sorhus
+ */
+
+/**
+ * @via https://github.com/uikit/uikit/
+ * @license https://github.com/uikit/uikit/blob/master/LICENSE.md
+ */
+
+/**
+ * Add to Homescreen v3.2.2
+ * (c) 2015 Matteo Spinelli
+ * @license: http://cubiq.org/license
+ */
+
+/**
+ * Selected
+ * @desc HTML select replacer
+ * @via https://github.com/silviomoreto/bootstrap-select
+ * @license https://github.com/silviomoreto/bootstrap-select/blob/master/LICENSE
+ * @param element
+ * @param options
+ * @constructor
+ */
+
+/**
+ * store.js
+ * @see https://github.com/marcuswestin/store.js
+ * @license https://github.com/marcuswestin/store.js/blob/master/LICENSE
+ */
